@@ -1,0 +1,1 @@
+Repositorio que contiene la resolucion de trabajos prácticos correspondiente a la materia Analísis de la Información. Se desarrollara el analísis de dos trabajos: TODOMUNDO de carácter grupal y ARTE CASA, de caracter general. En esta estructura se almacenaran los informes y diagramas que se elaboraran durante la cursada.
